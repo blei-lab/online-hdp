@@ -1,5 +1,5 @@
 # online-hdp
-Online inference for the Hierarchical Dirichlet Process. Fits hierarchical Dirichlet process topic models to massive data. The algorithm determines the number of topics.
+Online inference for the Hierarchical Dirichlet Process. Fits hierarchical Dirichlet process topic models to massive data. The algorithm determines the number of topics. Written by [Chong Wang](http://www.cs.princeton.edu/~chongw/index.html).
 
 ## Reference
 
